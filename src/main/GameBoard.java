@@ -1,7 +1,5 @@
 package main;
 
-import javax.sound.midi.SysexMessage;
-
 import pieces.*;
 
 public class GameBoard {
